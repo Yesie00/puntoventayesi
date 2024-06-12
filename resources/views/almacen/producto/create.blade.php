@@ -16,7 +16,7 @@
                         <div class="col-md-6 col-12">
                             <div class="form-group"> 
                                 <label for="nombre">Nombre</label>
-                                <input type="text" class="form-control" name="nombre" id="nombre" placeholder="Ingresa el nombre del producto">
+                                <input type="text" class="form-control" name="nombre" id="nombre" placeholder="Ingrese el nombre del producto">
                             </div> 
                         </div>  
                         <div class="col-md-6 col-12">
@@ -32,20 +32,20 @@
                         <div class="col-md-6 col-12">
                             <div class="form-group">
                                 <label for="codigo">Código</label>
-                                <input type="text" class="form-control" name="codigo" id="codigo" placeholder="Ingresa el código del producto">
+                                <input type="text" class="form-control" name="codigo" id="codigo" placeholder="Ingrese el código del producto">
                             </div>
                         </div>
                         <div class="col-md-6 col-12">
                             <div class="form-group">
                                 <label for="stock">Stock</label>
-                                <input type="text" class="form-control" name="stock" id="stock" placeholder="Ingresa el stock del producto">
+                                <input type="text" class="form-control" name="stock" id="stock" placeholder="Ingrese el stock del producto">
                             </div>
                         </div>
                         
                         <div class="col-md-6 col-12">
                             <div class="form-group">
                                 <label for="descripcion">Descripcion</label>
-                                <input type="text" class="form-control" name="descripcion" id="descripcion" placeholder="Ingresa la URL de la descripcion del producto">
+                                <input type="text" class="form-control" name="descripcion" id="descripcion" placeholder="Ingrese la descripcion del producto">
                             </div>
                         </div>
                         <div class="col-md-6 col-12">
